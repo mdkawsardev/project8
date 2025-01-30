@@ -1,3 +1,3 @@
 # project8
 practice_class8
-https://mdkawsarimran9.github.io/project8/
+https://mdkawsardev.github.io/project8/
